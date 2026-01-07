@@ -1,9 +1,13 @@
 **TaxSmart AI**
+
 taxsmart.netlify.app/
+
 **Overview**
+
 TaxSmart AI is an innovative tax planning application that combines artificial intelligence and blockchain technology to provide secure, transparent, and efficient tax advice. It helps users optimize their tax planning while ensuring the integrity and immutability of financial records.
 
 **Solution Approach**
+
 TaxSmart AI employs a combination of AI, blockchain, and modern web technologies to streamline tax management. The key components include:
 
 AI-driven tax planning suggestions: Utilizing Scikit-learn models to analyze financial data and provide intelligent tax-saving recommendations.
@@ -12,6 +16,7 @@ User-friendly interface: A React-based frontend that allows users to input finan
 Verification system for tax records: Ensures authenticity and compliance using blockchain validation mechanisms.
 
 **Technologies Used**
+
 Frontend: React
 Backend: Flask
 AI Model: Scikit-learn
@@ -19,6 +24,7 @@ Blockchain: Ethereum (Truffle, Ganache)
 Database: PostgreSQL
 
 **Results**
+
 AI Tax Optimization: Analyzes tax-saving opportunities and provides users with personalized recommendations.
 Blockchain Verification: Ensures tax documents are tamper-proof and accessible for audits.
 User Insights Dashboard: Displays financial metrics and tax efficiency scores in an interactive format.
